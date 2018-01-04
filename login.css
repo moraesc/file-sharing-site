@@ -1,0 +1,59 @@
+h1 {
+  position:absolute;
+  left: 40px;
+  top: -10px;
+  color: #435fba;
+  font-size: 50px;
+  position: absolute;
+  font-family: Helvetica;
+  font-weight: lighter;
+}
+
+h2 {
+  font-family: Helvetica;
+  color: #435fba;
+  position: absolute;
+  top: 230px;
+  left: 540px;
+}
+
+#form #user {
+  position: absolute;
+  top: 330px;
+  left: 500px;
+  font-family: Helvetica;
+}
+
+#form #submit {
+
+  position: absolute;
+  top: 410px;
+  left: 580px;
+  font-family: Helvetica;
+}
+
+#rectangle1 {
+  position: absolute;
+  top: -1px;
+  right: -7px;
+  background-color: lightgrey;
+  width: 1300px;
+  height: 110px;
+}
+#rectangle2 {
+  position: absolute;
+  top: 190px;
+  left: 410px;
+  width: 400px;
+  height: 300px;
+  border: solid thick #435fba;
+}
+
+#errors {
+position: absolute;
+top: 359px;
+left: 581px;
+font-size: 14px;
+font-family: Helvetica;
+color: red;
+}
